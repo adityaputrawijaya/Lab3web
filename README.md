@@ -20,6 +20,7 @@
     </ul>
 </section>
 ```
+![image](https://github.com/adityaputrawijaya/Lab3web/assets/115687055/1c4ca1e0-c712-4fd3-ae2e-a0b1b79c6bd3)
 
 
 ## Membuat Description List
@@ -38,6 +39,7 @@
     </dl>
 </section>
 ```
+![image](https://github.com/adityaputrawijaya/Lab3web/assets/115687055/ece12c70-d70a-4442-b63a-7af3fd9d07d9)
 
 
 ## Membuat Tabel
@@ -55,13 +57,13 @@
   <tbody>
     <tr>
         <td>1.</td>
-        <td>Dimas Firmansyah</td>
+        <td>Aditya Putra</td>
         <td>Teknik</td>
         <td>Teknik Informatika</td>
     </tr>
     <tr>
         <td>2.</td>
-        <td>Fahmi Faturohman</td>
+        <td>Riski lay</td>
         <td>Ekonomi & Bisnis</td>
         <td>Management</td>
     </tr>
@@ -74,6 +76,7 @@
   </tbody>
 </table>
 ```
+![image](https://github.com/adityaputrawijaya/Lab3web/assets/115687055/3025e93c-32c1-43cc-b410-4aead9351565)
 
 
 ## Menggabungkan Cell Data
@@ -106,6 +109,7 @@
   </tbody>
 </table>
 ```
+![image](https://github.com/adityaputrawijaya/Lab3web/assets/115687055/a5753325-7bd3-4fab-acc3-c13550c4a9df)
 
 
 # Membuat Formm
