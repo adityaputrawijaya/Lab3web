@@ -106,7 +106,7 @@
   </tbody>
 </table>
 ```
-![Sel data](https://github.com/DimasF3009/Lab3web/assets/115356128/133c42f7-eb61-4c0c-9428-d65916cad5fe)
+
 
 # Membuat Formm
 #### Code
