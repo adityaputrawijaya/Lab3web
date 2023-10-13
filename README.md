@@ -114,14 +114,18 @@
 
 # Membuat Formm
 #### Code
+![image](https://github.com/adityaputrawijaya/Lab3web/assets/115687055/f9afab66-b55a-4fb9-adff-05f456ddce8c)
 
 #### Hasil
+![image](https://github.com/adityaputrawijaya/Lab3web/assets/115687055/df7de866-4a36-4f0a-8340-f3ed82a82da2)
 
 
 # Latihan Praktikum
 #### Code
+![image](https://github.com/adityaputrawijaya/Lab3web/assets/115687055/84044763-dddb-4f42-98e9-e18b7d2f9277)
 
 #### Hasil
+![image](https://github.com/adityaputrawijaya/Lab3web/assets/115687055/49e5b314-9795-412f-be38-bd0717fb5fc0)
 
 
 
