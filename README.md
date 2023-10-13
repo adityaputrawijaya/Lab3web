@@ -76,7 +76,7 @@
   </tbody>
 </table>
 ```
-![image](https://github.com/adityaputrawijaya/Lab3web/assets/115687055/3025e93c-32c1-43cc-b410-4aead9351565)
+![image](https://github.com/adityaputrawijaya/Lab3web/assets/115687055/62112de0-487c-45e8-b214-0c571932f9e9)
 
 
 ## Menggabungkan Cell Data
